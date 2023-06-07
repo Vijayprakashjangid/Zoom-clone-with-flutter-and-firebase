@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![WhatsApp Image 2023-06-07 at 13 48 00](https://github.com/Vijayprakashjangid/Zoom-clone-with-flutter-and-firebase/assets/87078252/7402dfac-b37c-4e44-8a0a-41bfce835a47)
-![WhatsApp Image 2023-05-23 at 17 52 11 (3)](https://github.com/Vijayprakashjangid/Zoom-clone-with-flutter-and-firebase/assets/87078252/58966a96-2317-46c6-b074-cd3f66b70b7a)
-![WhatsApp Image 2023-05-23 at 17 52 11 (2)](https://github.com/Vijayprakashjangid/Zoom-clone-with-flutter-and-firebase/assets/87078252/d87b0003-2a65-4a9e-952c-fae4b2228a00)
+![WhatsApp Image 2023-06-07 at 13 48 00 (1)](https://github.com/Vijayprakashjangid/Zoom-clone-with-flutter-and-firebase/assets/87078252/43cc1e62-f0df-49d4-80fb-3d04d2e61a88)
+![WhatsApp Image 2023-06-07 at 13 48 00 (2)](https://github.com/Vijayprakashjangid/Zoom-clone-with-flutter-and-firebase/assets/87078252/84c80806-18d7-499e-a27b-55e05b3f7cf2)
